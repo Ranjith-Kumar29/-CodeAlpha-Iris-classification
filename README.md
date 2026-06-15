@@ -72,6 +72,8 @@ jupyter notebook "Iris classification.ipynb"
 | 10 | Show feature importances (Random Forest) |
 | 11 | Predict species for a new flower sample |
 
+<img width="2198" height="2083" alt="iris_classification" src="https://github.com/user-attachments/assets/5962fa48-c3f9-4f83-ac11-e42f61170ffa" />
+
 ---
 
 ## 🤖 Models Compared
